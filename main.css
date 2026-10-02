@@ -153,7 +153,7 @@ h4{
 
 .category{
 
-     height: 277px;
+     height: 370px;
     width: calc((100% - 270px) / 4);
     text-align: center;
     background-color: white;
@@ -168,7 +168,7 @@ h4{
     height: 70px;
 }
 .category h2{
-    font-size: 30px;
+    font-size: 18px;
     margin: 15px 0 10px;
 }
 .category p{
@@ -186,7 +186,7 @@ h4{
 .course-card{
    
     width: calc((100% - 135px) / 4);
-     height: 560px;
+     height: 655px;
     background-color: white;
     padding: 15px;
     border-radius: 12px;
